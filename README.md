@@ -1,5 +1,5 @@
 <h1>TabCounter</h1>
-<p>This Tabcounter was created for AstraeusTF on Twitch. It is used to count the amount of times Tab is pressed and display that number on stream.<\p>
+<p>This Tabcounter was created for AstraeusTF on Twitch. It is used to count the amount of times Tab is pressed and display that number on stream.</p>
 
 <h2>Usage</h2>
 <h3>Compiling</h3>
